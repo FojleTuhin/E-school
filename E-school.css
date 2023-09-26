@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: 'Itim', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* navabar start from here. */
+
+.first-sec{
+    background-color: #F0FFF0;
+}
+.first-sec .navbar .col-md-10 .row{
+    margin-top: 20px;
+}
+
+.first-sec .navbar .col-md-10 .row .col-md-6 #Sign-in{
+    margin-top: -10px;
+}
+
+.first-sec .navbar .col-md-10 .row .col-md-6 #Sign-in #solo-color{
+    color: white;
+}
+
+#Sign-in{
+    background-color: #21B573;
+    width: 105px;
+    height: 40px;
+    border-radius: 30px;
+    padding: 8px 25px 8px 25px;
+    color: white;
+}
+
+.navbar img{
+    width: 200px;
+    height: 60px;
+}
+
+.navbar .right-nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+.navbar .right-nav ul{
+    list-style-type: none;
+}
+/* navbar end here. */
+
+
+
+/* Intro start from here.  */
+
+.Intro .col-md-10 .row .left-site #text-color{
+    color: #FD511A;
+}
+span{
+    color: #21B573;
+}
+
+
+.Intro .col-md-10 .row{
+    margin-top: 60px;
+}
+
+
+/* Intro end herer.  */
+
+
+/* second section start from here */
+
+.box{
+   
+    width: 22%;
+    height: auto;
+    box-shadow: 5px 2px 5px 2px lightgrey;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+}
+
+.box:hover{
+    background-color: white;
+}
+
+
+.second-sec .row .col-md-10 .row img{
+
+    margin-top: 30px;
+
+    height: 65px;
+    width: auto;
+}
+
+.second-sec .row .col-md-10 .row .box {
+    text-align: center;
+}
+
+.second-sec .row .col-md-10 .row .box .inner-part{
+    margin-top: 20px;
+}
+
+
+.second-sec{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+/* second section end here. */
+
+
+/* third section start from here. */
+
+.Third-sec{
+    margin-bottom: 50px;
+}
+
+.center{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+button{
+    border: none;
+    width: 130px;
+    border-radius: 30px;
+    background-color: #21B573;
+    color: white;
+}
+.card{
+    padding: 10px;
+    border-radius: 18px;
+    box-shadow: 5px 2px 5px 2px lightgrey;;
+}
+.card-img-top{
+    border-radius: 10px;
+}
+
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+.card-footer h6{
+    font-size: 12px;
+}
+
+.card-footer img{
+    height: 24px;
+    width: 24px;
+    
+    
+}
+
+.card-footer h6{
+    position: relative;
+    top: -19px;
+    left: 25px;
+}
+
+
+
+/* third section end here.  */
+/* Fourth section start from here. */
+
+.Fourth-sec img{
+    height: 150px;
+}
+.Fourth-sec{
+    margin-bottom: 100px;
+}
+/* Fourth section end here. */
+ /* Fifth section start from here. */
+
+ footer{
+    color: #F0FFF0;
+}
+
+.Fifth-sec{
+    color: white;
+    background-color: #282531;
+}
+
+.Fifth-sec .row .col-md-10{
+    margin-top: 70px;
+}
+
+.Fifth-sec ul{
+    list-style-type: none;
+}
+footer{
+    margin-top: 50px;
+}
+
+
+/* Fifth section end here. */
